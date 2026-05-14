@@ -13,9 +13,6 @@ const IMAGES = [
   { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/gallery-7-1-700x600.jpg", span: "" },
   { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/gallery-8-1-700x600.jpg", span: "" },
   { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/gallery-9-1-700x600.jpg", span: "" },
-  { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/physical-chemical-test01.png", span: "" },
-  { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/JR-Team-n-1.jpg", span: "col-span-2" },
-  { src: "https://jrmetalchennai.com/wp-content/uploads/2026/04/chairman-image-1.jpg", span: "" },
 ];
 
 export default function Gallery() {
